@@ -1,10 +1,13 @@
-﻿<Properties StartupConfiguration="{80403A02-CA7F-BEDC-D7AE-90B749F11856}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerHealth.cs">
+﻿<Properties StartupConfiguration="{C5ED3476-B67A-E67E-8DE6-818F95FDE806}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemies.cs">
     <Files>
-      <File FileName="Assets/MainMenuController.cs" Line="17" Column="59" />
       <File FileName="Assets/Scripts/PlayerCollisionController.cs" Line="16" Column="31" />
       <File FileName="Assets/Scripts/PlayerHealth.cs" Line="61" Column="28" />
       <File FileName="Assets/Scripts/Score.cs" Line="8" Column="12" />
+      <File FileName="Assets/Scripts/Collectables.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/EnemyDestroyController.cs" Line="31" Column="22" />
+      <File FileName="Assets/Scripts/Enemies.cs" Line="51" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
